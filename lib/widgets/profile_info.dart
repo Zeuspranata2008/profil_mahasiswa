@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'info_row.dart';
 
 class ProfileInfo extends StatelessWidget {
